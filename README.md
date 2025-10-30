@@ -2,8 +2,6 @@
 
 ## Overview
 
-This folder contains my two completed solutions for the LeapAP coding test:
-
 - `parser.js`: Utility bill parser (Node.js)
 - `scraper.js`: Web scraper that logs into LeapAP, searches for invoice #123444, downloads the PDF, and saves it locally
 
