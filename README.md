@@ -3,7 +3,7 @@
 ## Overview
 
 - `parser.js`: Utility bill parser (Node.js)
-- `scraper.js`: Web scraper that logs into LeapAP, searches for invoice #123444, downloads the PDF, and saves it locally
+- `scraper.js`: Web scraper that logs into website, searches for invoice #123444, downloads the PDF, and saves it locally
 
 ---
 
